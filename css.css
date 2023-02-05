@@ -1,0 +1,94 @@
+#dslab {
+    border-radius: 3px;
+}
+
+a {
+    text-decoration: none;
+}
+
+#fontsize {
+    font-size: small;
+}
+
+#cartbodylaptop>h5 {
+    color: black;
+}
+
+#cartbodylaptop>del {
+    color: darkgray;
+}
+
+#cartbodylaptop>em {
+    color: red;
+    font-weight: 700;
+}
+
+#cartbodygear>h5 {
+    color: black;
+}
+
+#cartfootergear>del {
+    color: black;
+}
+
+#cartfootergear>em {
+    color: red;
+    font-weight: 700;
+}
+
+#fontsize-footer>div>p {
+    font-size: smaller;
+}
+
+#fontsize-footer>div>span {
+    font-size: smaller;
+    font-weight: 700;
+}
+
+#fontsize-footer>div>a {
+    color: black;
+    font-size: smaller;
+}
+
+.container-fluid {
+    background-color: #cd1818;
+    margin: auto;
+}
+
+.col-xl-5 {
+    margin: auto;
+}
+
+.col-xl-3 {
+    margin: auto;
+}
+
+.f-nav {
+    background-color: black;
+}
+
+.carousel {
+    margin: 0 0 4px 4px;
+}
+
+.row4 {
+    margin: 4px;
+
+}
+
+.maine {
+    background-image: url(images/brbody.jpg);
+}
+
+.row5 {
+    margin: 6px 0 6px 0;
+}
+.cdt-product__img-promo {
+    position: relative;
+    padding-bottom: 40px;
+}
+
+.bitu{
+    margin: auto;
+    border-radius: 15px;
+}
